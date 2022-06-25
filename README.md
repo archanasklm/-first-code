@@ -1,0 +1,2 @@
+# -first-code
+Sanke game
